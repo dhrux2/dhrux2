@@ -11,6 +11,10 @@
   <a href="https://github.com/dhrux2?tab=repositories">Repositories</a>
 </p>
 
+<br>
+
+<h2>About</h2>
+
 <p align="left">
   🛠️ I’m a full-stack developer currently building <strong>agentic AI systems with evals and guardrails</strong>.<br>
   I’m drawn to local-first products that work offline, and I’m open to collaborating on them.
@@ -24,7 +28,9 @@
   <em>I’d rather ship a rough first version today and make it better tomorrow than keep polishing a plan.</em>
 </p>
 
-<h3 align="left">⚙️ Tech Stack</h3>
+<br>
+
+<h2>⚙️ Tech Stack</h2>
 
 <div align="left">
 <picture>
@@ -33,7 +39,9 @@
 </picture>
 </div>
 
-<h3 align="left">Connect with me</h3>
+<br>
+
+<h2>Connect with me</h2>
 
 <p align="left">
   <a href="mailto:work@dhruvupadhyay.com">✉️ work@dhruvupadhyay.com</a>
